@@ -12,4 +12,4 @@ COPY . /app
 
 ENTRYPOINT ["streamlit", "run"]
 
-CMD ["StreamlitAppImerys.py"]
+CMD ["test.py"]
