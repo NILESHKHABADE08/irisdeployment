@@ -1,2 +1,9 @@
+Pillow
+plotly
+requests
+altair
+pydeck
+matplotlib
+seaborn
+streamlit-nightly
 streamlit
-sklearn
