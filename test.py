@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import platform
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
